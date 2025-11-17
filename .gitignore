@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit
+.streamlit/
+
+# Data and database
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Chroma persistent folder
+chroma_data/
+*.chromadb/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

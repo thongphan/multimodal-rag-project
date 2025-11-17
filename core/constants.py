@@ -1,0 +1,5 @@
+DB_PATH = ".\\data\\chroma.db"
+IMAGE_FOLER=".\\data\\images"
+COLLECTION_NAME = "flowers_collection"
+OPENCLIP_MODEL_NAME = "ViT-B-32"
+OPENCLIP_PRETRAINED_DATASET = "laion400m_e32"

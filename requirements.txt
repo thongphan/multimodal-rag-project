@@ -1,0 +1,12 @@
+chromadb
+psutil
+matplotlib
+open-clip-torch
+pillow
+datasets
+langchain
+langchain-community
+langchain-core
+langchain-openai
+fastapi
+streamlit
